@@ -1,0 +1,4 @@
+# open cmd with administrator privilage 
+# just type bcdedit /set hypervisorlaunchtype off
+# restert your computer
+====> Problem solved <===
