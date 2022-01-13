@@ -1,3 +1,12 @@
+#########################################################
+# facebook  : https://www.facebook.com/seyam8           #
+# facebook P: https://www.facebook.com/seyamOfficials   #
+# instagram : seyamOfficials                            #
+# twitter   : seyamOfficials                            #
+#########################################################
+==> If your kali linux stuck on boot loop in Virtual box on Windows 
+you can try this :- 
+
 # open cmd with administrator privilage 
 # just type bcdedit /set hypervisorlaunchtype off
 # restert your computer
